@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iraklis.S</h1>
-- 🔭 I’m currently working on a CRM App to get better at programming different Apps , I have called it **xTreme CRM**
-- 🌱 I’m currently learning **Vanilla JS,PHP,Laravel,Vue.js**
+- 🔭 I'm currently studying Informatics
+- 🌱 I'm currently learning **Vanilla JS,PHP,Laravel,Vue.js**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
